@@ -1,4 +1,5 @@
 # myrepo
-testing my setup \n
-making a change and testing again\n
-one more change\n
+testing my setup 
+making a change and testing again
+one more change
+this is final
